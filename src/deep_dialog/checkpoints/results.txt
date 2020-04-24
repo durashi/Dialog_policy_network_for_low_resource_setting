@@ -1,0 +1,222 @@
+Success rate: 25 / 100 Avg reward: -26.35 Avg turns: 34.70Success rate: 21 / 100 Avg reward: -31.63 Avg turns: 35.66#######################################test result for training sample 50#######################################
+
+Success rate: 134 / 200 Avg reward: 30.86 Avg turns: 21.07 
+#######################################test result for training sample 50#######################################
+Success rate: 24 / 100 Avg reward: -25.99 Avg turns: 31.58 
+Success rate: 138 / 200 Avg reward: 33.95 Avg turns: 19.69 
+#######################################test result for training sample 51#######################################
+Success rate: 30 / 100 Avg reward: -16.59 Avg turns: 27.18 
+Success rate: 138 / 200 Avg reward: 34.08 Avg turns: 19.44 
+#######################################test result for training sample 52#######################################
+Success rate: 29 / 100 Avg reward: -18.69 Avg turns: 28.98 
+Success rate: 132 / 200 Avg reward: 30.62 Avg turns: 19.15 
+#######################################test result for training sample 53#######################################
+Success rate: 25 / 100 Avg reward: -24.87 Avg turns: 31.74 
+Success rate: 151 / 200 Avg reward: 42.30 Avg turns: 18.61 
+#######################################test result for training sample 54#######################################
+Success rate: 24 / 100 Avg reward: -27.68 Avg turns: 34.96 
+Success rate: 148 / 200 Avg reward: 40.02 Avg turns: 19.55 
+#######################################test result for training sample 55#######################################
+Success rate: 24 / 100 Avg reward: -27.03 Avg turns: 33.66 
+Success rate: 139 / 200 Avg reward: 34.71 Avg turns: 19.38 
+#######################################test result for training sample 56#######################################
+Success rate: 39 / 100 Avg reward: -7.11 Avg turns: 29.82 
+Success rate: 141 / 200 Avg reward: 35.72 Avg turns: 19.77 
+#######################################test result for training sample 57#######################################
+Success rate: 30 / 100 Avg reward: -19.31 Avg turns: 32.62 
+Success rate: 125 / 200 Avg reward: 25.18 Avg turns: 21.63 
+#######################################test result for training sample 58#######################################
+Success rate: 39 / 100 Avg reward: -7.19 Avg turns: 29.98 
+Success rate: 151 / 200 Avg reward: 42.08 Avg turns: 19.04 
+#######################################test result for training sample 59#######################################
+Success rate: 25 / 100 Avg reward: -26.36 Avg turns: 34.72 
+Success rate: 127 / 200 Avg reward: 26.18 Avg turns: 22.05 
+#######################################test result for training sample 60#######################################
+Success rate: 24 / 100 Avg reward: -27.20 Avg turns: 34.00 
+Success rate: 132 / 200 Avg reward: 30.04 Avg turns: 20.33 
+#######################################test result for training sample 61#######################################
+Success rate: 34 / 100 Avg reward: -13.36 Avg turns: 30.32 
+Success rate: 128 / 200 Avg reward: 27.07 Avg turns: 21.45 
+#######################################test result for training sample 62#######################################
+Success rate: 29 / 100 Avg reward: -20.97 Avg turns: 33.54 
+Success rate: 115 / 200 Avg reward: 17.93 Avg turns: 24.14 
+#######################################test result for training sample 63#######################################
+Success rate: 33 / 100 Avg reward: -14.83 Avg turns: 30.86 
+Success rate: 141 / 200 Avg reward: 35.39 Avg turns: 20.42 
+#######################################test result for training sample 64#######################################
+Success rate: 26 / 100 Avg reward: -24.53 Avg turns: 33.46 
+Success rate: 129 / 200 Avg reward: 27.99 Avg turns: 20.82 
+#######################################test result for training sample 65#######################################
+Success rate: 21 / 100 Avg reward: -31.49 Avg turns: 35.38 
+Success rate: 138 / 200 Avg reward: 33.70 Avg turns: 20.19 
+#######################################test result for training sample 66#######################################
+Success rate: 25 / 100 Avg reward: -24.88 Avg turns: 31.76 
+Success rate: 144 / 200 Avg reward: 37.22 Avg turns: 20.37 
+#######################################test result for training sample 67#######################################
+Success rate: 41 / 100 Avg reward: -4.79 Avg turns: 29.98 
+Success rate: 134 / 200 Avg reward: 30.93 Avg turns: 20.93 
+#######################################test result for training sample 68#######################################
+Success rate: 36 / 100 Avg reward: -10.86 Avg turns: 30.12 
+Success rate: 128 / 200 Avg reward: 27.14 Avg turns: 21.31 
+#######################################test result for training sample 69#######################################
+Success rate: 32 / 100 Avg reward: -13.48 Avg turns: 25.76 
+Success rate: 140 / 200 Avg reward: 35.01 Avg turns: 19.99 
+#######################################test result for training sample 70#######################################
+Success rate: 31 / 100 Avg reward: -16.84 Avg turns: 30.08 
+Success rate: 140 / 200 Avg reward: 35.09 Avg turns: 19.83 
+#######################################test result for training sample 71#######################################
+Success rate: 32 / 100 Avg reward: -16.67 Avg turns: 32.14 
+Success rate: 131 / 200 Avg reward: 29.25 Avg turns: 20.71 
+#######################################test result for training sample 72#######################################
+Success rate: 31 / 100 Avg reward: -17.83 Avg turns: 32.06 
+Success rate: 119 / 200 Avg reward: 20.85 Avg turns: 23.10 
+#######################################test result for training sample 73#######################################
+Success rate: 33 / 100 Avg reward: -15.33 Avg turns: 31.86 
+Success rate: 138 / 200 Avg reward: 33.53 Avg turns: 20.53 
+#######################################test result for training sample 74#######################################
+Success rate: 39 / 100 Avg reward: -7.06 Avg turns: 29.72 
+Success rate: 133 / 200 Avg reward: 30.18 Avg turns: 21.24 
+#######################################test result for training sample 75#######################################
+Success rate: 31 / 100 Avg reward: -17.76 Avg turns: 31.92 
+Success rate: 129 / 200 Avg reward: 27.81 Avg turns: 21.18 
+#######################################test result for training sample 76#######################################
+Success rate: 32 / 100 Avg reward: -14.90 Avg turns: 28.60 
+Success rate: 148 / 200 Avg reward: 40.10 Avg turns: 19.39 
+#######################################test result for training sample 77#######################################
+Success rate: 35 / 100 Avg reward: -11.59 Avg turns: 29.18 
+Success rate: 139 / 200 Avg reward: 34.38 Avg turns: 20.05 
+#######################################test result for training sample 78#######################################
+Success rate: 27 / 100 Avg reward: -21.58 Avg turns: 29.96 
+
+################################################################################################################
+
+
+Success rate: 235 / 300 Avg reward: 46.07 Avg turns: 17.87 
+#######################################test result for training sample 70#######################################
+Success rate: 23 / 100 Avg reward: -28.89 Avg turns: 34.98 
+Success rate: 214 / 300 Avg reward: 36.74 Avg turns: 19.73 
+#######################################test result for training sample 71#######################################
+Success rate: 23 / 100 Avg reward: -28.57 Avg turns: 34.34 
+Success rate: 225 / 300 Avg reward: 41.64 Avg turns: 18.73 
+#######################################test result for training sample 72#######################################
+Success rate: 36 / 100 Avg reward: -11.21 Avg turns: 30.82 
+#######################################test result for training sample 50#######################################
+Success rate: 30 / 100 Avg reward: -19.42 Avg turns: 32.84 
+#######################################test result for training sample 51#######################################
+#######################################test result for training sample 50#######################################
+Success rate: 31 / 100 Avg reward: -17.91 Avg turns: 32.22 
+#######################################test result for training sample 51#######################################
+#######################################test result for training sample 50#######################################
+Success rate: 33 / 100 Avg reward: -15.33 Avg turns: 31.86 
+#######################################test result for training sample 51#######################################
+Success rate: 28 / 100 Avg reward: -21.81 Avg turns: 32.82 
+#######################################test result for training sample 52#######################################
+Success rate: 31 / 100 Avg reward: -17.34 Avg turns: 31.08 
+#######################################test result for training sample 53#######################################
+
+
+####################################100 episodes 50 epocs#######################################################
+
+
+Success rate: 49 / 100 Avg reward: 6.79 Avg turns: 26.02 
+#######################################test result for training sample 50#######################################
+Success rate: 32 / 100 Avg reward: -14.75 Avg turns: 28.30 
+Success rate: 45 / 100 Avg reward: 1.42 Avg turns: 27.16 
+#######################################test result for training sample 51#######################################
+Success rate: 42 / 100 Avg reward: -1.25 Avg turns: 25.30 
+Success rate: 43 / 100 Avg reward: -0.57 Avg turns: 26.34 
+#######################################test result for training sample 52#######################################
+Success rate: 28 / 100 Avg reward: -20.78 Avg turns: 30.76 
+Success rate: 43 / 100 Avg reward: -1.69 Avg turns: 28.58 
+#######################################test result for training sample 53#######################################
+Success rate: 31 / 100 Avg reward: -18.09 Avg turns: 32.58 
+Success rate: 50 / 100 Avg reward: 8.38 Avg turns: 25.24 
+#######################################test result for training sample 54#######################################
+Success rate: 32 / 100 Avg reward: -15.38 Avg turns: 29.56 
+Success rate: 47 / 100 Avg reward: 4.31 Avg turns: 26.18 
+#######################################test result for training sample 55#######################################
+Success rate: 32 / 100 Avg reward: -11.97 Avg turns: 22.74 
+Success rate: 51 / 100 Avg reward: 9.42 Avg turns: 25.56 
+#######################################test result for training sample 56#######################################
+Success rate: 22 / 100 Avg reward: -29.36 Avg turns: 33.52 
+Success rate: 53 / 100 Avg reward: 11.62 Avg turns: 25.96 
+#######################################test result for training sample 57#######################################
+Success rate: 25 / 100 Avg reward: -26.28 Avg turns: 34.56 
+Success rate: 55 / 100 Avg reward: 15.08 Avg turns: 23.84 
+#######################################test result for training sample 58#######################################
+Success rate: 28 / 100 Avg reward: -20.94 Avg turns: 31.08 
+Success rate: 43 / 100 Avg reward: -1.42 Avg turns: 28.04 
+#######################################test result for training sample 59#######################################
+Success rate: 26 / 100 Avg reward: -24.51 Avg turns: 33.42 
+Success rate: 44 / 100 Avg reward: -0.89 Avg turns: 29.38 
+#######################################test result for training sample 60#######################################
+Success rate: 27 / 100 Avg reward: -23.59 Avg turns: 33.98 
+Success rate: 43 / 100 Avg reward: -0.63 Avg turns: 26.46 
+#######################################test result for training sample 61#######################################
+Success rate: 28 / 100 Avg reward: -21.10 Avg turns: 31.40 
+
+
+############################################episodes 200 epocs 100##############################################
+
+#######################################result for training sample 50 turn count 0#######################################
+Success rate: 150 / 200 Avg reward: 41.58 Avg turns: 18.85 
+Success rate: 27 / 100 Avg reward: -23.82 Avg turns: 34.44 
+#######################################result for training sample 50 turn count 1#######################################
+Success rate: 145 / 200 Avg reward: 38.13 Avg turns: 19.73 
+Success rate: 32 / 100 Avg reward: -16.75 Avg turns: 32.30 
+#######################################result for training sample 50 turn count 2#######################################
+Success rate: 137 / 200 Avg reward: 33.07 Avg turns: 20.26 
+Success rate: 36 / 100 Avg reward: -10.49 Avg turns: 29.38 
+#######################################result for training sample 50 turn count 3#######################################
+Success rate: 159 / 200 Avg reward: 48.14 Avg turns: 16.52 
+Success rate: 33 / 100 Avg reward: -15.22 Avg turns: 31.64 
+#######################################result for training sample 51 turn count 0#######################################
+Success rate: 139 / 200 Avg reward: 34.45 Avg turns: 19.89 
+Success rate: 43 / 100 Avg reward: -1.22 Avg turns: 27.64 
+#######################################result for training sample 51 turn count 1#######################################
+Success rate: 143 / 200 Avg reward: 37.02 Avg turns: 19.57 
+Success rate: 43 / 100 Avg reward: -0.75 Avg turns: 26.70 
+#######################################result for training sample 51 turn count 2#######################################
+Success rate: 143 / 200 Avg reward: 37.28 Avg turns: 19.03 
+Success rate: 33 / 100 Avg reward: -11.80 Avg turns: 24.80 
+#######################################result for training sample 51 turn count 3#######################################
+Success rate: 157 / 200 Avg reward: 46.74 Avg turns: 16.92 
+Success rate: 41 / 100 Avg reward: -3.94 Avg turns: 28.28 
+#######################################result for training sample 52 turn count 0#######################################
+Success rate: 155 / 200 Avg reward: 45.11 Avg turns: 17.78 
+Success rate: 26 / 100 Avg reward: -24.33 Avg turns: 33.06 
+#######################################result for training sample 52 turn count 1#######################################
+Success rate: 138 / 200 Avg reward: 33.67 Avg turns: 20.25 
+Success rate: 38 / 100 Avg reward: -5.77 Avg turns: 24.74 
+#######################################result for training sample 52 turn count 2#######################################
+Success rate: 134 / 200 Avg reward: 31.09 Avg turns: 20.62 
+Success rate: 43 / 100 Avg reward: -1.42 Avg turns: 28.04 
+#######################################result for training sample 52 turn count 3#######################################
+Success rate: 128 / 200 Avg reward: 26.82 Avg turns: 21.97 
+Success rate: 26 / 100 Avg reward: -24.22 Avg turns: 32.84 
+#######################################result for training sample 53 turn count 0#######################################
+Success rate: 134 / 200 Avg reward: 30.95 Avg turns: 20.91 
+Success rate: 31 / 100 Avg reward: -18.10 Avg turns: 32.60 
+#######################################result for training sample 53 turn count 1#######################################
+Success rate: 129 / 200 Avg reward: 27.68 Avg turns: 21.43 
+Success rate: 37 / 100 Avg reward: -9.92 Avg turns: 30.64 
+#######################################result for training sample 53 turn count 2#######################################
+Success rate: 128 / 200 Avg reward: 26.97 Avg turns: 21.66 
+Success rate: 28 / 100 Avg reward: -21.98 Avg turns: 33.16 
+#######################################result for training sample 53 turn count 3#######################################
+Success rate: 128 / 200 Avg reward: 27.20 Avg turns: 21.20 
+Success rate: 31 / 100 Avg reward: -17.75 Avg turns: 31.90 
+#######################################result for training sample 54 turn count 0#######################################
+Success rate: 146 / 200 Avg reward: 39.03 Avg turns: 19.14 
+Success rate: 23 / 100 Avg reward: -28.84 Avg turns: 34.88 
+#######################################result for training sample 54 turn count 1#######################################
+Success rate: 124 / 200 Avg reward: 24.39 Avg turns: 22.03 
+Success rate: 31 / 100 Avg reward: -17.74 Avg turns: 31.88 
+#######################################result for training sample 54 turn count 2#######################################
+Success rate: 131 / 200 Avg reward: 28.86 Avg turns: 21.49 
+Success rate: 41 / 100 Avg reward: -4.12 Avg turns: 28.64 
+#######################################result for training sample 54 turn count 3#######################################
+Success rate: 132 / 200 Avg reward: 29.33 Avg turns: 21.74 
+Success rate: 43 / 100 Avg reward: -1.80 Avg turns: 28.80 
+#######################################result for training sample 55 turn count 0#######################################
+#######################################result for training sample 52 turn count 0#######################################
